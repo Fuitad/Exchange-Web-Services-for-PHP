@@ -1,3 +1,7 @@
+THIS PACKAGE IS DEPRECATED AND NO LONGER SUPPORTED.
+==============
+
+
 Exchange Web Services for PHP
 =============================
 
